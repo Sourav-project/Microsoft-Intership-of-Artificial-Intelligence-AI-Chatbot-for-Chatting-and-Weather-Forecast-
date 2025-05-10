@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Colorful AI Chatbot",
+  title: "AI Chatbot",
   description: "A colorful, eye-catching chatbot for communication and weather forecasts",
     generator: 'v0.dev'
 }
